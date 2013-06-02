@@ -1,0 +1,6 @@
+<sheet>
+	<sprite name="Pixahl_Menu_Title.png" x="0" y="0" width="296" height="69" />
+	<sprite name="Pixahl_Menu_Options.png" x="296" y="0" width="205" height="46" />
+	<sprite name="Pixahl_Menu_Quit.png" x="0" y="69" width="111" height="43" />
+	<sprite name="Pixahl_Menu_Start.png" x="111" y="69" width="133" height="37" />
+</sheet>
